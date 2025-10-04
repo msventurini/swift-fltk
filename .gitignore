@@ -8,7 +8,7 @@
 *.exe
 *.o
 **/.DS_Store
-
+**/.build
 # CMake build artifacts if built in source - strongly discouraged!
 # We may disallow this later...
 
